@@ -1,0 +1,15 @@
+discord.py==1.7.3
+topggpy
+psutil
+hurry.filesize
+pymongo
+dnspython
+datetime
+
+urbanpython
+redditeasy==3.6.3
+python-dotenv
+skingrabber
+
+discord_webhook
+requests
